@@ -1,0 +1,41 @@
+.collapse {
+    justify-content: center;
+
+}
+
+#navigation {
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 8vh;
+
+
+}
+
+/* @media only screen and (max-width: 1100px)
+ .navbar{
+    position: relative;
+ } */
+.gallery-image img {
+    width: 155px;
+    margin-bottom: 7px;
+    margin-right: 150px;
+
+
+}
+
+.text-icon img {
+    margin-left: 80%;
+    margin-top: -12px;
+}
+
+body {
+    background-color: black;
+}
+
+.nav-item a {
+    color: white;
+    font-family: ruda;
+}
